@@ -142,7 +142,7 @@ joblib @ file:///C:/b/abs_e60_bwl1v6/croot/joblib_1666298845728/work
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
 jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
 jsonpointer==2.1
-joblib=1.1.1
+joblib==1.1.1
 jsonschema @ file:///C:/b/abs_6ccs97j_l8/croot/jsonschema_1676558690963/work
 jupyter @ file:///C:/Windows/TEMP/abs_56xfdi__li/croots/recipe/jupyter_1659349053177/work
 jupyter-console @ file:///C:/b/abs_68ttzd5p9c/croot/jupyter_console_1677674667636/work
