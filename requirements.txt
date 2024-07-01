@@ -1,5 +1,5 @@
 ﻿absl-py==2.0.0
-alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+alabaster 
 alembic==1.13.1
 altair==5.3.0
 anaconda-client==1.11.1
