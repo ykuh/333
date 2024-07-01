@@ -3,7 +3,6 @@ alabaster
 alembic==1.13.1
 altair==5.3.0
 anaconda-client==1.2.2
-anaconda-navigator==2.4.0
 anaconda-project
 anndata==0.10.4
 anyio
@@ -308,7 +307,7 @@ rich==10.16.2
 rope
 rsa==4.9
 Rtree
-ruamel-yaml-conda
+ruamel-yaml
 ruamel.yaml
 ruamel.yaml.clib
 scanpy==1.9.6
@@ -406,3 +405,4 @@ zict==2.1.0
 zipp
 zope.interface
 zstandard==0.19.0
+
