@@ -9,12 +9,12 @@ import pandas as pd
 import numpy as np
 import joblib
 
-# 加载模型
-model = joblib.load('D:/BDATE/2910SHAP/svm_model1.pkl')
+# 使用相对路径加载模型
+model = joblib.load('./svm_model1.pkl')
 
-# 加载数据
-csv_path = r'D:\桌面\2910.csv'
-df = pd.read_csv(csv_path)
+# 使用相对路径加载数据
+csv_path = './2910.csv'
+data = pd.read_csv(csv_path)
 
 # 特征和标签
 X = df.drop('G', axis=1)
