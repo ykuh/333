@@ -7,7 +7,6 @@ matplotlib
 art==6.1
 blinker==1.8.2
 brotlipy==0.7.0
-clyent==1.2.2
 conda==23.3.1
 DCA==0.3.2
 dcapy==0.1.14
