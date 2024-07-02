@@ -14,7 +14,7 @@ model = joblib.load('./svm_model1.pkl')
 
 # 使用相对路径加载数据
 csv_path = './2910.csv'
-data = pd.read_csv(csv_path)
+df = pd.read_csv(csv_path)
 
 # 特征和标签
 X = df.drop('G', axis=1)
