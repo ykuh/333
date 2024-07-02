@@ -9,6 +9,11 @@ import pandas as pd
 import numpy as np
 import joblib
 
+import warnings
+from sklearn.exceptions import InconsistentVersionWarning
+warnings.filterwarnings("ignore", category=InconsistentVersionWarning)
+
+
 # 使用相对路径加载模型
 model = joblib.load('./svm_model1.pkl')
 
